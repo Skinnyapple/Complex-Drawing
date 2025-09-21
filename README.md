@@ -1,0 +1,2 @@
+The Original Sketch has been submitted in person
+I had a lot of fun trying to figure out where different coordinates are, especially with the quad(x1,y1,x2,y2,x3,y3,x4,y4). I think this is absolutely diabolical for anyone to make the y-axis on the left side rather than the middle. I think overall it's pretty simple, I only have to use one shape during the entire process, and I also learned that using the axis would be easier. 
